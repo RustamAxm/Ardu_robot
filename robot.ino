@@ -1,3 +1,4 @@
+// импортировали библиотеки
 #include <Arduino.h>
 #include <Streaming.h>
 #include <Vector.h>
